@@ -1,2 +1,2 @@
 # audioWiz
-A simple Java based android audio player. Project halted for time issues
+A simple Java based android audio player. this repo is only made for keeping track of ideas
